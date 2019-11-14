@@ -1,0 +1,14 @@
+id,unique id
+title,original title column
+employer,original employer column
+salary,original salary column
+gender,original gender column
+years_exp,original years experience column
+Location,original location column
+duties,"original j""Job duties"" column"
+comments,"original ""PREV SALARIES/TITLES/Etc"" coumn"
+employer_clean,"column standardizes publication names, removing words like ""the"" and various minor permutattions"
+base_salary_clean,"Changes all salaries to numerical values, where possible. Only base salaries included. Bonuses, if specified, not included. "
+sal_flag,rows where base salary calculation
+years_exp_clean,numerical column of years experience column
+location_forgeo,beginning of standardized location column that would be fit to geocode. Non-specifc locations eliminated
