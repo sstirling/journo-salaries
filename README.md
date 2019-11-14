@@ -39,3 +39,4 @@ I'll add to this as I do more work:
 | sal_flag          | rows where base salary calculation not available for various reasons (non-usd, hourly)                                      |
 | years_exp_clean   | numerical version of years exp column                                                                                       |
 | location_forgeo   | beginning of standardized location column that would be fit to geocode. Non-specific locations eliminated                   |
+| title_category    | first pass at standardizing 'title' column. Grouped many positions, but needs more work.                                    |
