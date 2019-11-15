@@ -1,8 +1,6 @@
 # Journalism Salaries Data
 
-This repository will be an effort to clean and standardize the [Real Journalism Salaries](https://www.cjr.org/cjr_outbox/google-doc-journalism-media-pay.php) spreadsheet that has been making its rounds.  
-
-**If anyone knows if someone or some group is taking credit for creating it, please let me know** 
+This repository will be an effort to clean and standardize the [Real Journalism Salaries](https://www.cjr.org/cjr_outbox/google-doc-journalism-media-pay.php) spreadsheet, created by [Sarah Kobos](https://twitter.com/skobos/status/1194322736685998081), that has been making its rounds.  
 
 If you'd like to submit your anonymous salary data, you can do so here: [Submission Form](https://docs.google.com/forms/d/e/1FAIpQLScws3_GjSHH7LGPdm7r82u1Nj5apstZHD5fiMu6zL_UO9gqRw/viewform)
 
