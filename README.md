@@ -10,13 +10,15 @@ If you'd like to see the raw data as it comes in you can do so here: [Salary dat
 
 ## Cleaning Process
 
-*New data last appended: 10:30 p.m. Nov. 13, 2019* 
+*New data last appended: 8:30 a.m. Nov. 15, 2019* 
 
-*N=855*
+*N=1224*
 
 New, standardized columns will always be added at the end of the data so new information can be appended to the bottom. A file of the original data will also be kept here. 
 
-As of now, I have created a numerical salary column, a numerical experience column and roughly cleaned employer column. I'll build out a broader data dictionary as I go.  
+* Nov. 13: I have created a numerical salary column, a numerical experience column and roughly cleaned employer column. I'll build out a broader data dictionary as I go.  
+
+* Nov. 15: Removed several troll entries, appended another 400 or so data slots. Further refined title_category column.  
 
 If you have suggestions/criticisms, you can ping me at stephenstirling@gmail.com.  Totally open to outside contributions as well.     
 
